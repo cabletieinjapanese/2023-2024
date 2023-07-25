@@ -420,14 +420,14 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "unconnected-(U4-PB0-Pad18)": "S2",
-      "unconnected-(U4-PB1-Pad19)": "M2",
-      "unconnected-(U4-PB10-Pad21)": "S1",
-      "unconnected-(U4-PB2-Pad20)": "S0",
-      "unconnected-(U4-PB4-Pad40)": "S3",
-      "unconnected-(U4-PB5-Pad41)": "S2",
-      "unconnected-(U4-PB6-Pad42)": "S0",
-      "unconnected-(U4-PB7-Pad43)": "S1"
+      "unconnected-(U9-PB0-Pad18)": "S2",
+      "unconnected-(U9-PB1-Pad19)": "M2",
+      "unconnected-(U9-PB10-Pad21)": "S1",
+      "unconnected-(U9-PB2-Pad20)": "S0",
+      "unconnected-(U9-PB4-Pad40)": "S3",
+      "unconnected-(U9-PB5-Pad41)": "S2",
+      "unconnected-(U9-PB6-Pad42)": "S0",
+      "unconnected-(U9-PB7-Pad43)": "S1"
     },
     "netclass_patterns": []
   },
@@ -465,7 +465,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
