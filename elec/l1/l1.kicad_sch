@@ -1899,7 +1899,7 @@
     (fill (type none))
     (uuid 0bee29f3-4798-45c4-ab5e-20b9c1786981)
   )
-  (rectangle (start 34.29 107.315) (end 140.97 188.595)
+  (rectangle (start 34.29 107.315) (end 140.97 159.385)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid 3e15658a-40d1-4b57-9335-c65a09b5083c)
@@ -2606,7 +2606,7 @@
       )
       (project "l1"
         (path "/83813a76-0730-4df2-a3a5-0ea20d9ce8b3"
-          (reference "R33") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
