@@ -30,6 +30,9 @@ l3 - v2.2
 
 ## team
 loh hao yuan - elec
+
 lee yu zhe - mech
+
 cruz low - programming
+
 oliver ong - ?
