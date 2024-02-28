@@ -23,8 +23,8 @@ Handle - v0.5+
 ### ELECTRICAL
 l1 - v1.1
 
-l2 - v3.0
+l2 - v3.2
 
-l3 - v2.1
+l3 - v2.2
 
 *total - brain hurt cant count why am i doing this*
