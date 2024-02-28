@@ -1,4 +1,4 @@
-22309952973666259
+22412204624001307
 2024l1
 14 AWG
 
@@ -279,6 +279,13 @@ audio belton reverb
 0
 7
 7
+BNO085
+IC_BNO080
+
+
+0
+28
+28
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -54949,6 +54956,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-C
+XCVR_ESP32-C3-MINI-1-N4
+
+
+0
+61
+61
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -84951,6 +84965,13 @@ rotary encoder
 0
 7
 6
+SS34
+DIOM7959X265N
+
+
+0
+2
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85525,6 +85546,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+SparkFun DEV-155
+MODULE_DEV-15583
+
+
+0
+33
+33
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -86533,6 +86561,13 @@ Logo WEEE
 0
 0
 0
+TLF1963
+TLF1963TBATMA1 footprint
+
+
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -92140,6 +92175,20 @@ varistor
 0
 2
 2
+hy
+L298N
+
+
+0
+13
+12
+l1
+14 AWG
+
+
+0
+1
+1
 l1
 0630 One Piece Inductor
 
@@ -92155,7 +92204,14 @@ l1
 2
 2
 l1
-ALS-PT19
+ALS-PT19 (Bottom Side)
+
+
+0
+2
+2
+l1
+ALS-PT19 (Top Side)
 
 
 0
@@ -92176,6 +92232,34 @@ AMASS_XT60-M
 2
 2
 l1
+C2843867
+
+
+0
+6
+6
+l1
+CD74HC4067M
+
+
+0
+24
+24
+l1
+CP_Radial_D16.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 16mm Electrolytic Capacitor
+0
+2
+2
+l1
+CSL0416WBCW1
+CSL0416WBCW1-1
+LED
+0
+2
+2
+l1
 Crystal
 
 
@@ -92189,6 +92273,13 @@ capacitor tantalum
 0
 2
 2
+l1
+Edge Shield
+
+
+0
+0
+0
 l1
 LED-3528
 
@@ -92204,6 +92295,13 @@ No Touchy Touchy
 0
 0
 l1
+PESD2USB3UXT-QR
+
+
+0
+3
+3
+l1
 SEN Logo Mini
 
 
@@ -92211,12 +92309,33 @@ SEN Logo Mini
 1
 1
 l1
+SEN Logo Silk
+
+
+0
+0
+0
+l1
+SLIDE-SWITCH
+
+
+0
+5
+5
+l1
 SMA (DO-214AC)
 SMA (DO-214AC)
 Schottky Diode
 0
 2
 2
+l1
+SOT95P237X112-3N
+Micro3
+MOSFET (N-Channel)
+0
+3
+3
 l1
 SOT95P280X125-3N
 
@@ -92232,12 +92351,26 @@ Switch
 3
 3
 l1
+SS12F21
+
+
+0
+3
+3
+l1
 SW_PUSH_SPST
 
 
 0
 2
 2
+l1
+Seeeduino XIAO SAMD 21 TFT
+
+
+0
+14
+14
 l1
 TI_SO-PowerPAD-8
 8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf
@@ -92274,6 +92407,13 @@ Test Pad
 1
 1
 l1
+Through Hole LDR
+
+
+0
+2
+2
+l1
 cap0603
 
 
@@ -92288,6 +92428,286 @@ led0603
 2
 2
 l1
+led2835
+
+
+0
+2
+2
+l1
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+l1
+res0603
+
+
+0
+2
+2
+l2
+14 AWG
+
+
+0
+1
+1
+l2
+0630 One Piece Inductor
+
+
+0
+2
+2
+l2
+1040 One Piece Inductor
+
+
+0
+2
+2
+l2
+ALS-PT19 (Bottom Side)
+
+
+0
+2
+2
+l2
+ALS-PT19 (Top Side)
+
+
+0
+2
+2
+l2
+AMASS_XT30-F
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+l2
+AMASS_XT60-M
+
+
+0
+2
+2
+l2
+C2843867
+
+
+0
+6
+6
+l2
+CD74HC4067M
+
+
+0
+24
+24
+l2
+CP_Radial_D16.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 16mm Electrolytic Capacitor
+0
+2
+2
+l2
+CSL0416WBCW1
+CSL0416WBCW1-1
+LED
+0
+2
+2
+l2
+Crystal
+
+
+0
+2
+2
+l2
+EIA-7343-D
+Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+l2
+Edge Shield
+
+
+0
+0
+0
+l2
+LED-3528
+
+
+0
+2
+2
+l2
+No Touchy Touchy
+
+
+0
+0
+0
+l2
+PESD2USB3UXT-QR
+
+
+0
+3
+3
+l2
+SEN Logo Mini
+
+
+0
+1
+1
+l2
+SEN Logo Silk
+
+
+0
+0
+0
+l2
+SLIDE-SWITCH
+
+
+0
+5
+5
+l2
+SMA (DO-214AC)
+SMA (DO-214AC)
+Schottky Diode
+0
+2
+2
+l2
+SOT95P237X112-3N
+Micro3
+MOSFET (N-Channel)
+0
+3
+3
+l2
+SOT95P280X125-3N
+
+
+0
+3
+3
+l2
+SS12D00G3
+SS12D00G3-1
+Switch
+0
+3
+3
+l2
+SS12F21
+
+
+0
+3
+3
+l2
+SW_PUSH_SPST
+
+
+0
+2
+2
+l2
+Seeeduino XIAO SAMD 21 TFT
+
+
+0
+14
+14
+l2
+TI_SO-PowerPAD-8
+8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf
+HTSOP 1.27
+0
+9
+9
+l2
+TO170P1435X465-6N
+KTT0005B
+Integrated Circuit
+0
+10
+6
+l2
+TO255P1040X460X2890-3
+
+
+0
+3
+3
+l2
+TRIM_3362W-1-203LF
+
+
+0
+3
+3
+l2
+Test Pad
+
+
+0
+1
+1
+l2
+Through Hole LDR
+
+
+0
+2
+2
+l2
+cap0603
+
+
+0
+2
+2
+l2
+led0603
+
+
+0
+2
+2
+l2
+led2835
+
+
+0
+2
+2
+l2
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+l2
 res0603
 
 

@@ -1,4 +1,4 @@
-22279530467945583
+22296574067171310
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,20 @@ audio belton reverb
 0
 7
 7
+BNO085
+BNO085
+
+
+0
+131
+34
+BNO085
+IC_BNO080
+
+
+0
+28
+28
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -84692,6 +84706,13 @@ rotary encoder
 0
 7
 6
+SS34
+DIOM7959X265N
+
+
+0
+2
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -91896,12 +91917,26 @@ varistor
 2
 2
 hy
+DIOM5025X220N
+
+
+0
+2
+2
+hy
 L298N
 
 
 0
 13
-6
+13
+hy
+OPENMV
+
+
+0
+22
+8
 l2
 14 AWG
 
@@ -92050,6 +92085,13 @@ Schottky Diode
 2
 2
 l2
+SODFL4725X110N
+
+
+0
+2
+2
+l2
 SOT95P237X112-3N
 Micro3
 MOSFET (N-Channel)
@@ -92168,3 +92210,31 @@ res0603
 0
 2
 2
+l3
+OpenMV_RT
+
+
+0
+50
+33
+l3
+VL53L0X
+
+
+0
+0
+0
+l3
+bno085
+
+
+0
+12
+12
+xiao ESP32C3_PCB
+MOUDLE14P-SMD-2.54-21X17.8MM
+
+
+0
+14
+14
