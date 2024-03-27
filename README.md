@@ -1,4 +1,4 @@
-# ascendance robotics 2023-2024 season
+2023-2024 season
 
 
 
