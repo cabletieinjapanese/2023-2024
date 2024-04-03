@@ -21,8 +21,11 @@ int ledPin = 13;
 int buffer = 0;
 int buildup = 0;
 
+float ball_x = 0;
+float ball_y =  0;
+
 void motor(float motor1, float motor2, float motor3, float motor4) {
-  
+
 }
 
 void setup() {
@@ -52,20 +55,11 @@ void setup() {
   Serial5.begin(100000); //TX5, RX5 (to OpenMV)
   //baudrate set at 100k to match with OpenMV
 
-  digitalWrite(in1,HIGH);
-  digitalWrite(in2,LOW);
-  digitalWrite(in3,HIGH);
-  digitalWrite(in4,LOW);
-  digitalWrite(in5,HIGH);
-  digitalWrite(in6,LOW);
-  digitalWrite(in7,HIGH);
-  digitalWrite(in8,LOW);
-  digitalWrite(ledPin,HIGH);
 }
 
 
 void loop() {
-/* if (Serial5.available()) {
+  if (Serial5.available()) {
     //a packet is 8 bits : ABBCCCCC - where A is a completeness marker, BB is a 2-bit identity_marker and CCCCC is the 5-bit payload.
     unsigned char incoming_pkt = Serial5.read();
     int completeness_marker = incoming_pkt >> 7;
@@ -74,14 +68,16 @@ void loop() {
 
     buffer = buffer + (payload << buildup * 5);
     buildup = buildup + 1;
-    Serial.println(incoming_pkt);
 
     if (completeness_marker == 1) { //ending packet
-      Serial.println(buffer);
-      Serial.println("---------");
+      ball_x = (buffer % 100);
+      ball_y = floor(buffer / 100);
+      Serial.println(ball_x);
+      Serial.println(ball_y);
       buildup = 0;
       buffer = 0;
     }
-  } */
+  } 
 } 
+
 
