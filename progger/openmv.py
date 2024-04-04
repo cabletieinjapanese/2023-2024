@@ -38,11 +38,11 @@ while True:
         elif blob.area() > record_size:
             record_blob = blob
             record_size = blob.area()
-    
-    if record_blob: 
+
+    if record_blob:
         img.draw_rectangle(record_blob[0:4]) # rect
         img.draw_cross(record_blob[5], record_blob[6])
-        data = math.floor(record_blob.cxf() * 100 + record_blob.cyf())
+        data = math.floor(record_blob.cxf() * 1000 + record_blob.cyf())
 
     clock.tick()  # Update the FPS clock.
     for byte in range(uart.any()):

@@ -176,7 +176,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 41f463e9-9269-40dc-bf77-76b80fcd2e3a)
     )
-    (fp_text value "220u" (at 0 3.1 90) (layer "F.Fab") hide
+    (fp_text value "220u" (at 0 3.1 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1046959d-8ec4-443c-b2f3-d9d8b2c5ac71)
     )
@@ -192,9 +192,9 @@
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 18a62e68-67ac-44ba-a86b-783ed9ca5969))
     (fp_arc (start -4.3 2.387868) (mid -4.512132 2.3) (end -4.6 2.087868)
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 16eb6ec3-48b9-4b22-ae54-40da6c5794f0))
-    (fp_arc (start 4.3 -2.393934) (mid 4.512109 -2.306062) (end 4.6 -2.093934)
+    (fp_arc (start 4.3 -2.393934) (mid 4.512144 -2.306068) (end 4.6 -2.093934)
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp a803a383-fbc4-4bad-ac82-c0e91ea1f560))
-    (fp_arc (start 4.6 2.093934) (mid 4.512131 2.306067) (end 4.3 2.393934)
+    (fp_arc (start 4.6 2.093934) (mid 4.512131 2.306063) (end 4.3 2.393934)
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 60df9840-b993-4653-80e1-c3c112a37216))
     (fp_line (start -4.6 -2.4) (end 4.6 -2.4)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp fff33e00-7266-4afc-932c-1434ffecea7f))
@@ -240,7 +240,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ee1c0cce-46ac-487f-ae89-2e58c0914587)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 73a8bc54-0699-4f88-a490-df11996e1f85)
     )
@@ -287,7 +287,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aec5ec7b-dc63-4326-b8a5-a7040adf0a8f)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a8716071-f077-4e94-947f-3cf38abb233b)
     )
@@ -332,7 +332,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 433d23df-a7a7-4dda-a89f-536e7e04d1ba)
     )
-    (fp_text value "5K9" (at 0 1.8 unlocked) (layer "F.Fab") hide
+    (fp_text value "5K9" (at 0 1.8 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2cae0458-d829-482c-8ad9-d4604b6217d5)
     )
@@ -378,7 +378,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 13091f4c-3f8a-47c4-afb4-369a09e4ad4f)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2b45b234-2814-44ca-9e3d-94bb7464ad4f)
     )
@@ -425,7 +425,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9eafc924-aa5c-4ef0-a45a-19ce1431aabe)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f9a5df8b-4e63-4f67-9d5d-cbbb95a85f11)
     )
@@ -470,7 +470,7 @@
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 1f9abc6e-ab20-4693-a531-335926688c52)
     )
-    (fp_text value "+12V" (at 0 1 unlocked) (layer "F.Fab") hide
+    (fp_text value "+12V" (at 0 1 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea53d104-a56b-4c36-9c90-60ba2302d28a)
     )
@@ -491,7 +491,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 2a9e4e18-9897-422b-9ccb-8c262e36f4c5)
     )
-    (fp_text value "1K" (at 0 1.8 180 unlocked) (layer "F.Fab") hide
+    (fp_text value "1K" (at 0 1.8 180 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6d4a56ed-d072-4de1-b059-9f531f1fff47)
     )
@@ -535,7 +535,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 57740fa9-a25e-4945-a5fa-73c6786db6cd)
     )
-    (fp_text value "10K" (at 0 1.8 unlocked) (layer "F.Fab") hide
+    (fp_text value "10K" (at 0 1.8 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 11e89ff0-26a0-4da8-9f4a-9187de9da6be)
     )
@@ -579,7 +579,7 @@
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 4ff506f2-c117-48cc-b58b-00f483e05e78)
     )
-    (fp_text value "B340" (at 0.11 -3.92 unlocked) (layer "F.Fab") hide
+    (fp_text value "B340" (at 0.11 -3.92 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 668855c6-1645-405f-ae9b-95bef65686e2)
     )
@@ -630,7 +630,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2f0db202-66a1-4b10-8ac8-716d37afa067)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7ca72923-4f5d-4c88-960a-f912993d1e0d)
     )
@@ -675,7 +675,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp afc4d11c-ef71-4bb8-b028-37a26e49de2d)
     )
-    (fp_text value "10K" (at 0 1.8 180 unlocked) (layer "F.Fab") hide
+    (fp_text value "10K" (at 0 1.8 180 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9a4609a5-6de2-4e29-afeb-056e9407adea)
     )
@@ -721,7 +721,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 02894d8e-6a3b-49df-b70b-4efbb00a50b9)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 965d1319-5b97-4a60-9cb8-80d91af58a38)
     )
@@ -766,7 +766,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp d7d271fb-393c-420e-b7b0-01db1eb67ee3)
     )
-    (fp_text value "SW_Push" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (fp_text value "SW_Push" (at 0 2.5 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 37180e53-74bf-429c-88e1-b95c2a750680)
     )
@@ -827,7 +827,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 2d2ddf95-5d98-4f77-b10b-4dc015a80680)
     )
-    (fp_text value "TPS5430DDA" (at 0 3.5) (layer "F.Fab") hide
+    (fp_text value "TPS5430DDA" (at 0 3.5) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 20705e10-b238-4a30-80be-c27d12095160)
     )
@@ -881,7 +881,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp ec073b8a-f0f0-4c5d-af76-1515c8d89754)
     )
-    (fp_text value "10u" (at 0 1.8 180 unlocked) (layer "F.Fab") hide
+    (fp_text value "10u" (at 0 1.8 180 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a48c4731-6264-44fc-9c65-b4af608b8ee5)
     )
@@ -925,7 +925,7 @@
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 5b3c9760-3c08-49ba-b573-e7a8509988ad)
     )
-    (fp_text value "Conn_01x13" (at -0.21 -25.04 unlocked) (layer "F.Fab") hide
+    (fp_text value "Conn_01x13" (at -0.21 -25.04 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 31bec867-1f52-4a8c-b9b1-f91b9fb6b330)
     )
@@ -2437,7 +2437,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp d7d5bdda-b57b-4756-8a50-e2bfe84e4bbf)
     )
-    (fp_text value "C" (at 0 1.8 90 unlocked) (layer "F.Fab") hide
+    (fp_text value "C" (at 0 1.8 90 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 950422e2-d118-4cfa-9198-97168ee8cc9c)
     )
@@ -2483,7 +2483,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3a4c46e6-7e2d-47ff-9e2a-ac74a8a3788c)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 08b2e8f7-4c7b-49c7-a0cc-84b2af06154e)
     )
@@ -2528,7 +2528,7 @@
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 354b2bfa-5705-40a9-bc8a-7a053690a0f7)
     )
-    (fp_text value "Conn_01x13" (at -0.21 -25.04 180 unlocked) (layer "F.Fab") hide
+    (fp_text value "Conn_01x13" (at -0.21 -25.04 180 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7a987ab7-1f47-4a54-be05-17f8de8bf620)
     )
@@ -4040,7 +4040,7 @@
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 2389f743-2ec0-47fb-8e2b-ca5689b9ae61)
     )
-    (fp_text value "+12V" (at 0 1 unlocked) (layer "F.Fab") hide
+    (fp_text value "+12V" (at 0 1 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ae747b27-37d9-464b-a455-c68aaf80207a)
     )
@@ -4063,7 +4063,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 88ad8796-0f78-42ac-b457-d6dfbfe5a08d)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dcb81901-7ad1-4029-8da8-92b869f8ce2a)
     )
@@ -4110,7 +4110,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea92a277-6de7-43a2-8df9-5e1b9680bc69)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 90865660-e159-4a42-bea6-1ea3db5e1ba2)
     )
@@ -4157,7 +4157,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cad3b370-fb00-47e8-93a5-77c4533a8b4b)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45aefc86-e246-4709-b549-e09ca9b70f0b)
     )
@@ -4202,7 +4202,7 @@
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 18e461eb-505a-43af-984c-1818a1ac9f5c)
     )
-    (fp_text value "B340" (at 0.11 -3.92 unlocked) (layer "F.Fab") hide
+    (fp_text value "B340" (at 0.11 -3.92 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 08505e16-ed7f-47ab-886f-c92a6c29b84f)
     )
@@ -4253,7 +4253,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 490ff0f6-5194-46da-b07c-727a46d90dd0)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f26cba3c-db75-43e2-a70a-3f1d5f6a5a69)
     )
@@ -4300,7 +4300,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 731aa074-622b-435b-8387-5822bb3d5420)
     )
-    (fp_text value "220u" (at 0 3.1 90) (layer "F.Fab") hide
+    (fp_text value "220u" (at 0 3.1 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 51a52bd6-0ba2-401d-902a-88f19a313694)
     )
@@ -4316,9 +4316,9 @@
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 4cd09a2c-25b1-476e-b6c9-10c48a55587b))
     (fp_arc (start -4.3 2.387868) (mid -4.512132 2.3) (end -4.6 2.087868)
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 0bfc9d31-bebc-4f4d-ba9b-3e0cfd8fa70f))
-    (fp_arc (start 4.3 -2.393934) (mid 4.512144 -2.306068) (end 4.6 -2.093934)
+    (fp_arc (start 4.3 -2.393934) (mid 4.512109 -2.306062) (end 4.6 -2.093934)
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp bc692ec7-55b4-4948-8032-ed421d6c3eef))
-    (fp_arc (start 4.6 2.093934) (mid 4.512131 2.306063) (end 4.3 2.393934)
+    (fp_arc (start 4.6 2.093934) (mid 4.512131 2.306067) (end 4.3 2.393934)
       (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 6e5a6452-1f51-4bf7-88f7-96ff3e2f6984))
     (fp_line (start -4.6 -2.4) (end 4.6 -2.4)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 433b9bac-1a75-44b1-9320-cfa3f7de5b9a))
@@ -4362,7 +4362,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp ec3ae43b-886e-4d19-9f8a-d0150b0fb9bc)
     )
-    (fp_text value "10K" (at 0 1.8 180 unlocked) (layer "F.Fab") hide
+    (fp_text value "10K" (at 0 1.8 180 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 72fad5c7-a459-490a-a128-06f91874675e)
     )
@@ -4408,7 +4408,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0b22e82f-f0c4-45b2-9ca8-2bb43dbb684e)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 76e1efe9-e47f-4344-982d-4e6d3f95eb09)
     )
@@ -4453,7 +4453,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 0a70c7f6-2e10-4c6d-94da-df65cbbee76a)
     )
-    (fp_text value "C" (at 0 1.8 90 unlocked) (layer "F.Fab") hide
+    (fp_text value "C" (at 0 1.8 90 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 69c1912e-119b-4c35-86e3-133f284b026c)
     )
@@ -4498,7 +4498,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 0c1b3ed9-f312-4481-9364-94cee106c70b)
     )
-    (fp_text value "15uH" (at 0 3 unlocked) (layer "F.Fab") hide
+    (fp_text value "15uH" (at 0 3 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45d1d13d-5529-4358-9fa5-dd266ffd3db0)
     )
@@ -4532,7 +4532,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5581d9dd-3bcf-4caf-9d6f-20eceb3b71de)
     )
-    (fp_text value "Conn_01x08" (at 0 20.55 90) (layer "F.Fab") hide
+    (fp_text value "Conn_01x08" (at 0 20.55 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6079162f-5f70-4b0d-baa2-f80e0a8baae2)
     )
@@ -4616,7 +4616,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b97df9ad-3d08-4655-b28d-f6a9fac5e3b8)
     )
-    (fp_text value "DEV-15583" (at 1.27 19.685 90) (layer "F.Fab") hide
+    (fp_text value "DEV-15583" (at 1.27 19.685 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp adef9620-6d14-4709-bccc-5f28af1f2e76)
     )
@@ -4732,7 +4732,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 0bfc2593-2fa9-48d2-8d69-afac4f8b8ec1)
     )
-    (fp_text value "TPS5430DDA" (at 0 3.5) (layer "F.Fab") hide
+    (fp_text value "TPS5430DDA" (at 0 3.5) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8acb2dc9-7507-4e5d-af24-496c109fc1fc)
     )
@@ -4788,7 +4788,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6e5fecce-c445-4ef1-ad84-bca963eff7b6)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a2596c53-fedf-4452-952c-2d85798e9c18)
     )
@@ -4835,7 +4835,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 356dae26-8086-422b-ad4d-8e1bb03a15ff)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e09a173d-9b01-4e7e-a329-28c0ec33cb0f)
     )
@@ -4881,7 +4881,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 5d642c83-476b-4543-84d9-cf9e7354ba5a)
     )
-    (fp_text value "15uH" (at 0 3 unlocked) (layer "F.Fab") hide
+    (fp_text value "15uH" (at 0 3 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b08681ce-3eee-489c-aedf-b06decb4033f)
     )
@@ -4915,7 +4915,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 756be19e-dccd-4a4a-92ba-8c38adaf00e3)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3b677697-c262-4002-831e-446353ae9d4b)
     )
@@ -4962,7 +4962,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1f6583be-58ec-45eb-8d46-602cfdc3b4a6)
     )
-    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab") hide
+    (fp_text value "MountingHole_Pad" (at 0 4.2) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c5abc7df-bd9f-4811-beb4-bb158f8d3442)
     )
@@ -5007,7 +5007,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 1e1a8868-260d-4bd1-b4e0-9f953e2839b9)
     )
-    (fp_text value "10n" (at 0 1.8 unlocked) (layer "F.Fab") hide
+    (fp_text value "10n" (at 0 1.8 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e767142b-22c8-4a08-aadf-510703bb527c)
     )
@@ -5051,7 +5051,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp 821142fc-1a0e-43c0-8358-7887158c2435)
     )
-    (fp_text value "3K24" (at 0 1.8 unlocked) (layer "F.Fab") hide
+    (fp_text value "3K24" (at 0 1.8 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d7d78e5a-c9c1-4a70-a3bf-34bcf8405442)
     )
@@ -5097,7 +5097,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 466eb1a7-6580-4d08-aa6c-0e8a1cf6efe0)
     )
-    (fp_text value "Conn_01x04" (at 0 9.95 90) (layer "F.Fab") hide
+    (fp_text value "Conn_01x04" (at 0 9.95 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b3132f42-dc14-405a-a63b-113fcdb39450)
     )
