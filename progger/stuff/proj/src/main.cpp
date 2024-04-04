@@ -65,10 +65,11 @@ void setup() {
   digitalWrite(2, LOW);
   digitalWrite(3, LOW);
   digitalWrite(4, HIGH);
-  digitalWrite(7, LOW);
-  digitalWrite(8, HIGH);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, LOW);
   digitalWrite(9, HIGH);
   digitalWrite(10, LOW);
+
 
 
 
@@ -79,6 +80,14 @@ void setup() {
   // //baudrate set at 100k to match with OpenMV
 
 }
+
+// void forward() {
+  
+
+
+
+// }
+
 
 
 void loop() {
@@ -97,15 +106,18 @@ void loop() {
   //     ball_x = floor(buffer / 1000);
 
   //     Serial.println(ball_x);
+    for (int speed = 130; speed <= 255; speed++) {
+          analogWrite(0, speed);
+          analogWrite(5, speed);
+          analogWrite(6, speed);
+          analogWrite(11,speed);
+          delay(100);
+        }
 
   //     Serial.println(ball_y);
-  //     motor(1,1,1,1);
-        // uint8_t speed = 120;
-        // analogWrite(0, speed);
-        // analogWrite(5, speed);
-        // analogWrite(6, speed);
-        analogWrite(11, 255);
 
+        
+  // forward();
   //     if (ball_x > 135 and ball_x < 165){
   //       Serial.println("centre");
 
