@@ -6,9 +6,7 @@ loh hao yuan - elec, programming
 
 lee yu zhe - mech, programming
 
-cruz low - programming
-
-oliver ong - logistics support
+cruz low, oliver ong - logistics, soldering
 
 ## final results
 (5 apr 2024) 
@@ -26,8 +24,9 @@ we're currently working to finish up and polish our bot, such that we can run a 
     * we didn't really use our github repository that much, which is a really bad practice
     * furthermore, one of our members has still not figured out how version control works, and consistently asks me to "help (him) push the code"  
 
-## final thanks
+## thanks
 * [Sentinels Robotics](https://github.com/senrobo)
-    * [@vincentcayadi](https://github.com/vincentcayadi) for his advice regarding the sport and life as a whole, his boundless enthusiasm and good humour
+    * [@vincentcayadi](https://github.com/vincentcayadi) for his advice regarding the sport and life as a whole, his boundless enthusiasm, faith in our capabilities and good humour
     * [@shuanluck](https://github.com/shuanluck), [@DavidLow22](https://github.com/DavidLow22), and Tan Kian Wu for advice in all areas of robocup
-* [Ducc Robotics](https://github.com/
+* [Ducc Robotics](https://github.com/8076ducc)
+    * [@neohaojun](https://github.com/neohaojun) for guidance and advice with regards to budgeting
